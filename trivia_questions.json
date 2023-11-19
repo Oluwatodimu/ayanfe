@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "category": "MUSIC",
+    "question": "how many neutrons do we have in a hydrogen atom?",
+    "questionOptions": [
+      {
+        "id": 342,
+        "option": "A",
+        "text": "1"
+      },
+      {
+        "id": 343,
+        "option": "B",
+        "text": "0"
+      },
+      {
+        "id": 344,
+        "option": "C",
+        "text": "2"
+      },
+      {
+        "id": 347,
+        "option": "D",
+        "text": "7"
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 2,
+    "category": "SPORTS",
+    "question": "who won the 1998 world cup golden boot",
+    "questionOptions": [
+      {
+        "id": 382,
+        "option": "A",
+        "text": "Benzema"
+      },
+      {
+        "id": 383,
+        "option": "B",
+        "text": "Henry"
+      },
+      {
+        "id": 384,
+        "option": "C",
+        "text": "Viera"
+      },
+      {
+        "id": 387,
+        "option": "D",
+        "text": "Trezequet"
+      }
+    ],
+    "answer": "D"
+  }
+]
